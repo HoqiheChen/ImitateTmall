@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ImitateTmall:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="imitate_tmall.war">
+      <element id="artifact" artifact-name="ImitateTmall:war exploded" />
+    </root>
+  </artifact>
+</component>
